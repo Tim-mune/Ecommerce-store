@@ -1,1 +1,1 @@
-## a project from coding addict
+react-project (coding-addict)
